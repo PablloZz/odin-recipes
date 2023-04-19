@@ -1,0 +1,22 @@
+body {
+    background-color: lightblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #000;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 600px;
+    height: auto;
+}
+
+p, ul, ol {
+    width: 500px;
+}
+
+p, li {
+    font-size: 18px;
+}
